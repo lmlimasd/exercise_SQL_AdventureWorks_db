@@ -32,6 +32,6 @@ The AdventureWorks databases are sample databases that were published by Microso
 * **CurrencyRate**: the average and closing exchange rates for each currency compared to the USD
 
 
-### NOTEBOOK
+### Exercise details
 
 [Link notebook](https://github.com/lmlimasd/exercise_SQL_AdventureWorks_db/blob/main/workspace.ipynb)
