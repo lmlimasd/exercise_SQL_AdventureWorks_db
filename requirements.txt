@@ -1,0 +1,4 @@
+scipy==1.8.1
+SQLAlchemy==1.4.36
+ipython-sql == 0.4.1
+python == 3.8.8
