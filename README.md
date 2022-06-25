@@ -34,4 +34,4 @@ The AdventureWorks databases are sample databases that were published by Microso
 
 ### NOTEBOOK
 
-[LINK]()
+[Link notebook](https://github.com/lmlimasd/exercise_SQL_AdventureWorks_db/blob/main/workspace.ipynb)
