@@ -2,12 +2,12 @@
 
 ### Overview of the data
 
-The AdventureWorks databases are sample databases that were published by Microsoft to show how to design a SQL Server database. AdventureWorks database contain the data warehouse sample. The tables used in this exercise are belong to the Sales and Product categories (ER diagram Figure 1). The data is contained in  **AdventureWorks.db** SQLite database. For most information about the database visit the [repository](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works) of author or original documentation [here](https://dataedo.com/download/AdventureWorks.pdf).
+The AdventureWorks databases are sample databases that were published by Microsoft to show how to design a SQL Server database. AdventureWorks database contain the data warehouse sample. The tables used in this exercise are belong to the Sales and Product categories (ER Diagram). The data is contained in  **AdventureWorks.db** SQLite database. For most information about the database visit the [repository](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works) of author or original documentation [here](https://dataedo.com/download/AdventureWorks.pdf).
 
 ### AdventureWorks ER Diagram for  sales and product categories
 
 <p align="center"><img src="Figures/Fig1.png"
-     alt="Markdown Monster icon"  width="1000" />
+     alt="Markdown Monster icon"  width="800" />
 
 
 
